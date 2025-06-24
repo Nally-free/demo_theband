@@ -1,4 +1,4 @@
-/* hien thi nhanh = emmet */
+/* hiển thị nhanh = emmet */
 * {
     margin: 0;
     padding: 0;
@@ -13,8 +13,8 @@ html {
 /* 
 1. Vị trí
 2. Kích thước (width, height, display)
-3. Mau sac
-4. Kiểu dáng (kiểu chữ, hình tròn vuông,ẩn hiện,...)
+3. Màu sắc
+4. Kiểu dáng (kiểu chữ, hình tròn vuông, ẩn hiện,...)
 */
 
 /* Common class */
@@ -550,7 +550,7 @@ html {
     #contact .row.mt-8 {
         margin-top: 0;
     }
-    }
+}
 
 
 @media (max-width: 1023px) {
